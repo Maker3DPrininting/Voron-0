@@ -1,9 +1,5 @@
 # Voron Zero
 
-![Image of Voron Zero](http://vorondesign.com/images/voron0.1_bg.jpg)
-
-The official release of the Voron Zero 3d printer.  You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron0) website.
-
 The current revision is V0.1.
 
 ## Highlights
@@ -80,12 +76,3 @@ A majority of the printed parts have changed. The configurator will give you an 
 
 **Front Idlers**
 - No changes
-
-
-### V0.0 Updates and fixes (2020 Sept)
-See https://github.com/VoronDesign/Voron-0/releases/tag/V0.0r1
-
-### V0.0 Initial release (2020 April)
-See https://github.com/VoronDesign/Voron-0/releases/tag/V0.0
-
-![Voron Logo](http://vorondesign.com/images/voron_design_logo.png)
